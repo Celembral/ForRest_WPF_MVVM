@@ -1,1 +1,1 @@
-# nothing
+The project for the restaurant allows you to work with orders, there are also an employee authorization, and some features to work with employees and menu.To work with the project, there is an MS sql server database script file inside. All queries done with sql language inside the project.
